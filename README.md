@@ -1,2 +1,5 @@
 # Scripts
-Scripts for daily ACGN live
+
+## dlmaglink.py
+
+download magnet link with trackers using aria2
