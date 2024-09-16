@@ -1,0 +1,10 @@
+rpc-secret = "???"
+tracker-list = "https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt"
+
+[http]
+user-agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0"
+
+[bt]
+user-agent = "Transmission/2.94"
+peer-agent = "Transmission/2.94"
+peer-id-prefix = "-TR2940-"
